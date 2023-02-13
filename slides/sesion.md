@@ -1,7 +1,5 @@
 <img class="r-stretch" style="text-align: center" src="../assets/logo.png">
 ---
-## Realidad Virtual en el IES Las Cumbres
----
 ## Un poco de contexto
 
 Oculus fundada por Palmer Luckey en 2012
@@ -58,7 +56,7 @@ Posibilidad de mareo → Importancia del uso incremental
 ---
 ## Gestión de cuentas
 
-Cuenta hasta hace poco asociada a Facebook
+Hasta hace poco asociada a Facebook
 
 Avatar asociado a la cuenta
 
@@ -90,19 +88,20 @@ Y lo mejor está por llegar...
 
 ## ¿Cuándo usar VR en educación?
 
-Falta de material (caro o escaso).
+Falta de material (caro o escaso)
 
-Hay modelos o conceptos más fácil de comprender en tres dimensiones.
+Hay modelos o conceptos más fácil de comprender en tres dimensiones
 
-Cambio de escala: universo, cuerpo humano, metáforas de dispositivos.
+Cambio de escala: universo, cuerpo humano, metáforas de dispositivos
 
-Localizaciones remotas.
+Localizaciones remotas
 
-Actividades peligrosas.
 
-Actividad manual que requiere pasos muy precisos.
+Actividades peligrosas
 
-Ambiente controlado para replicar acciones de forma individual.
+Actividad manual que requiere pasos muy precisos
+
+Ambiente controlado para replicar acciones de forma individual
 
 
 ## Creación de experiencias educativas
@@ -111,7 +110,7 @@ Educa360
 
 Zoe
 
-Ausencia de soluciones libres
+Ausencia de soluciones libres (Erdoble)
 
 <img class="r-stretch" style="text-align: center" src="../assets/zoe.png">
 
