@@ -54,26 +54,29 @@ SOC Snapdragon XR2 <!-- .element: class="fragment" -->
 
 Sistema guardián: límite fijo o con desplazamiento <!-- .element: class="fragment" -->
 
-Abrazaderas y ajuste del casco <!-- .element: class="fragment" -->
-
-Experimental: Percepción sensorial <!-- .element: class="fragment" -->
-
-Posibilidad de mareo → Importancia del uso incremental <!-- .element: class="fragment" -->
-
 
 <img class="r-stretch" style="text-align: center" src="../assets/sistema-guardian.png">
+
+
+Abrazaderas y ajuste del casco
+
+Percepción sensorial <!-- .element: class="fragment" -->
+
+Posibilidad de mareo → Importancia del uso incremental <!-- .element: class="fragment" -->
 ---
 ## Gestión de cuentas
 
-Hasta hace poco asociada a Facebook
+Hasta hace poco asociada a Facebook <!-- .element: class="fragment" -->
 
-Avatar asociado a la cuenta
+Avatar asociado a la cuenta <!-- .element: class="fragment" -->
+
+
+<img class="r-stretch" style="text-align: center" src="../assets/avatar.jpg">
+
 
 Posibilidad de multicuenta
 
-Gestión desde app
-
-<img class="r-stretch" style="text-align: center" src="../assets/avatar.jpg">
+Gestión desde app <!-- .element: class="fragment" -->
 ---
 ## Oculus Home
 <img class="r-stretch" style="text-align: center" src="../assets/menu.png">
