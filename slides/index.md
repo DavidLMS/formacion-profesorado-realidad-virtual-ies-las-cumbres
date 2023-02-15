@@ -23,6 +23,35 @@ Versión standalone en 2017 (Oculus Go) <!-- .element: class="fragment" -->
 
 Oculus Quest (2018) → Oculus Quest 2 (2020) → Meta Quest 2 (2021) <!-- .element: class="fragment" -->
 ---
+## Actualidad
+
+<img class="r-stretch" style="text-align: center" src="../assets/meta-quest-pro.png">
+
+
+## Meta Quest Pro
+
+Presentado en octubre
+
+Modo passthrough en color
+
+Capacidad para transmitir emociones
+
+Mandos mejorados
+
+Enfoque profesional
+
+Su precio es 1800€
+---
+## Futuro: Objetivos a alcanzar
+
+Futuro del trabajo
+
+Futuro del ocio
+
+Futuro del deporte
+
+Futuro de la educación
+---
 
 ## Hardware de Meta Quest 2
 
@@ -87,42 +116,44 @@ Gestión desde app <!-- .element: class="fragment" -->
 ---
 ## Soporte educativo
 
-Control por transmisión en la app (1,4,3,2)
-
-Posibilidad de grabación en realidad virtual
-
-Múltiples recursos para diferentes materias
-
-Y lo mejor está por llegar...
-
 <img class="r-stretch" style="text-align: center" src="../assets/learn.jpg">
+
+
+Control por transmisión en la app
+
+Posibilidad de grabación en realidad virtual <!-- .element: class="fragment" -->
+
+Múltiples recursos para diferentes materias <!-- .element: class="fragment" -->
+
+Y lo mejor está por llegar... <!-- .element: class="fragment" -->
 
 
 ## ¿Cuándo usar VR en educación?
 
-Falta de material (caro o escaso)
+Falta de material (caro o escaso) <!-- .element: class="fragment" -->
 
-Hay modelos o conceptos más fácil de comprender en tres dimensiones
+Hay modelos o conceptos más fáciles de comprender en tres dimensiones <!-- .element: class="fragment" -->
 
-Cambio de escala: universo, cuerpo humano, metáforas de dispositivos
+Cambio de escala: universo, cuerpo humano, metáforas de dispositivos <!-- .element: class="fragment" -->
 
-Localizaciones remotas
+Localizaciones remotas <!-- .element: class="fragment" -->
 
 
-Actividades peligrosas
+Actividades peligrosas <!-- .element: class="fragment" -->
 
-Actividad manual que requiere pasos muy precisos
+Actividad manual que requiere pasos muy precisos <!-- .element: class="fragment" -->
 
-Ambiente controlado para replicar acciones de forma individual
+Ambiente controlado para replicar acciones de forma individual <!-- .element: class="fragment" -->
 
 
 ## Creación de experiencias educativas
 
-Educa360
+Educa360 <!-- .element: class="fragment" -->
 
-Zoe
+Zoe <!-- .element: class="fragment" -->
 
-Ausencia de soluciones libres (Erdoble)
+Ausencia de soluciones libres (Edorble) <!-- .element: class="fragment" -->
+
 
 <img class="r-stretch" style="text-align: center" src="../assets/zoe.png">
 
@@ -154,24 +185,6 @@ Intercambios virtuales: [Horizon Venues](https://www.oculus.com/experiences/ques
 [CPR](https://www.oculus.com/experiences/quest/5320252051348244/?utm_source=sidequest)
 
 
-## Administrativo
-
-[Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651/)
-
-[ShapesXR](https://www.oculus.com/experiences/quest/3899112273551602/)
-
-[Job Simulator](https://www.oculus.com/experiences/quest/3235570703151406/?locale=es_ES)
-
-
-## Informática
-
-Videojuegos serios: [Crear experiencias educativas](https://www.zoe.com/software/zoe-for-unity/)
-
-Web: [A-Frame](https://aframe.io)
-
-[Desarrollo](https://developer.oculus.com/get-started-platform/)
-
-
 ## Física y Química
 
 [Molecule Builder](https://www.oculus.com/experiences/quest/3632813843496339/?utm_medium=share&utm_source=oculus)
@@ -194,6 +207,8 @@ Web: [A-Frame](https://aframe.io)
 
 [Pandemic by Prisms](https://www.oculus.com/experiences/quest/3079043625531665/?utm_source=oculusapplab.com)
 
+[Prisms](https://www.prismsvr.com/get-prisms)
+
 [Carroll´s Riddles](https://sidequestvr.com/app/574/carrolls-riddles)
 
 [Number Cruncher](https://sidequestvr.com/app/6642/number-cruncher)
@@ -208,15 +223,6 @@ Web: [A-Frame](https://aframe.io)
 [Adam Savage's Tested VR](https://www.oculus.com/experiences/quest/2586839431358655/)
 
 [Gravity Sketch](https://www.oculus.com/experiences/quest/1587090851394426/)
-
-
-## Formación y Orientación Laboral
-
-[VirtualSpeech](https://www.oculus.com/experiences/quest/3973230756042512/?locale=es_ES)
-
-[Spatial](https://www.oculus.com/experiences/quest/2927141310670477)
-
-[Bodyswaps](https://www.oculus.com/experiences/quest/3714188128706579/?utm_source=oculusapplab.com)
 
 
 ## Lengua y Literatura
@@ -235,6 +241,42 @@ Web: [A-Frame](https://aframe.io)
 [Tours virtuales](https://my.matterport.com/show/?m=d42fuVA21To)
 
 [Google Earth VR](https://arvr.google.com/earth/)
+
+
+## Formación y Orientación Laboral
+
+[VirtualSpeech](https://www.oculus.com/experiences/quest/3973230756042512/?locale=es_ES)
+
+[Spatial](https://www.oculus.com/experiences/quest/2927141310670477)
+
+[Bodyswaps](https://www.oculus.com/experiences/quest/3714188128706579/?utm_source=oculusapplab.com)
+
+
+## Mecánica
+
+[Car Mechanic Simulator](https://www.oculus.com/experiences/quest/4178846312215481/)
+
+[Machine Inspector](https://sidequestvr.com/app/545/machine-inspector)
+
+[Wrench (aún no standalone)](http://www.wrenchgame.com)
+
+
+## Administrativo
+
+[Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651/)
+
+[ShapesXR](https://www.oculus.com/experiences/quest/3899112273551602/)
+
+[Job Simulator](https://www.oculus.com/experiences/quest/3235570703151406/?locale=es_ES)
+
+
+## Informática
+
+Videojuegos serios: [Crear experiencias educativas](https://www.zoe.com/software/zoe-for-unity/)
+
+Web: [A-Frame](https://aframe.io)
+
+[Desarrollo](https://developer.oculus.com/get-started-platform/)
 
 
 ## Comercio y Marketing
@@ -265,42 +307,19 @@ Aplican aplicaciones de los apartados de Idiomas y Administrativo
 
 Existen más alternativas: [App Lab](https://applabgamelist.com/Best)
 
-Experiencias en la web: [Access Mars](https://experiments.withgoogle.com/access-mars), [Speak to Go](https://experiments.withgoogle.com/speak-to-go), 
+Experiencias en la web: [Access Mars](https://experiments.withgoogle.com/access-mars), [Speak to Go](https://experiments.withgoogle.com/speak-to-go) 
 
 Una gran cantidad de vídeos en 360: [Viaje al interior del cuerpo humano](https://www.youtube.com/watch?v=d9D5csXovEM), [Tour por Londres](https://www.youtube.com/watch?v=m9EClKA1VeQ)
 
 [Y esto solo acaba de empezar](https://www.desconsolados.com/2021/07/17/visita-albarracin-de-manera-virtual-gracias-a-vr-chat/)
 ---
-## Actualidad
-
-<img class="r-stretch" style="text-align: center" src="../assets/meta-quest-pro.png">
-
-
-## Meta Quest Pro
-
-Presentado en octubre
-
-Modo passthrough en color
-
-Capacidad para transmitir emociones
-
-Mandos mejorados
-
-Enfoque profesional
-
-Su precio es 1800€
----
-## Objetivos a alcanzar
-
-Futuro del trabajo
-
-Futuro del ocio
-
-Futuro del deporte
-
-Futuro de la educación
----
 
 <!-- .slide: data-background-video="../assets/vr.mp4" data-background-opacity="0.6" data-background-video-loop data-background-video-muted -->
 
 ## ¿Dudas?
+---
+## Actividad propuesta
+
+Diseña una actividad para llevar a cabo con el alumnado usando Realidad Virtual
+
+Escanea el código QR para acceder a un listado de recursos en los que encontrar experiencias
