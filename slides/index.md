@@ -4,7 +4,7 @@
 
 <img class="r-stretch" style="text-align: center" src="../assets/realities.png">
 ---
-## ¿Qué eso del metaverso?
+## ¿Qué es eso del metaverso?
 
 <img class="r-stretch" style="text-align: center" src="../assets/metaverse.png">
 ---
