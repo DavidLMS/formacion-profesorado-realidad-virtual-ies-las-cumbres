@@ -1,41 +1,49 @@
 <img class="r-stretch" style="text-align: center" src="../assets/logo.png">
 ---
+## Las diferentes realidades
+
+<img class="r-stretch" style="text-align: center" src="../assets/realities.png">
+---
+## ¿Qué eso del metaverso?
+
+<img class="r-stretch" style="text-align: center" src="../assets/metaverse.png">
+---
 ## Un poco de contexto
 
-Oculus fundada por Palmer Luckey en 2012
+Oculus fundada por Palmer Luckey en 2012 <!-- .element: class="fragment" -->
 
-Oculus Rift necesitaba un ordenador
+Oculus Rift necesitaba un ordenador <!-- .element: class="fragment" -->
+
+<img class="r-stretch" style="text-align: center" src="../assets/rift.png"> <!-- .element: class="fragment" -->
+
 
 Adquirida por Facebook (Meta) en 2014
 
-Versión standalone en 2017 (Oculus Go)
+Versión standalone en 2017 (Oculus Go) <!-- .element: class="fragment" -->
 
-Oculus Quest (2018) → Oculus Quest 2 (2020) → Meta Quest 2 (2021)
-
-<img class="r-stretch" style="text-align: center" src="../assets/rift.png">
-
+Oculus Quest (2018) → Oculus Quest 2 (2020) → Meta Quest 2 (2021) <!-- .element: class="fragment" -->
 ---
 
 ## Hardware de Meta Quest 2
 
-**Pantalla**: 1 * 1832×3800 (1832×1920 por ojo) LCD
+1 * 1832×3800 (1832×1920 por ojo) LCD <!-- .element: class="fragment" -->
 
-**Tasa de refresco**: 72-90Hz (120Hz en fase experimental)
+72-90Hz (120Hz en fase experimental) <!-- .element: class="fragment" -->
 
-**Tienda**: Oculus Quest Store (posibilidad de usar Oculus Link)
+Oculus Quest Store (posibilidad de usar Oculus Link) <!-- .element: class="fragment" -->
 
-**Procesador**: SOC Snapdragon XR2
+SOC Snapdragon XR2 <!-- .element: class="fragment" -->
 
-**RAM**: 6GB
+6GB RAM <!-- .element: class="fragment" -->
 
 
-**Almacenamiento**: 128GB (de 350€ a 450€) / 256GB (de 450€ a 550€)
+128GB (de 350€ a 450€) / 256GB (de 450€ a 550€)
 
-**Peso**: 503g
+503g <!-- .element: class="fragment" -->
 
-**Mandos**: 2 * Oculus Touch Controller (V3)
+2 * Oculus Touch Controller (V3) <!-- .element: class="fragment" -->
 
-**Batería**: 2-3 horas
+2-3 horas batería <!-- .element: class="fragment" -->
 ---
 
 ## Echa un vistazo
@@ -44,13 +52,14 @@ Oculus Quest (2018) → Oculus Quest 2 (2020) → Meta Quest 2 (2021)
 ---
 ## Seguridad
 
-**Sistema guardián**: límite fijo o con desplazamiento
+Sistema guardián: límite fijo o con desplazamiento <!-- .element: class="fragment" -->
 
-Abrazaderas y ajuste del casco
+Abrazaderas y ajuste del casco <!-- .element: class="fragment" -->
 
-Experimental: Percepción sensorial
+Experimental: Percepción sensorial <!-- .element: class="fragment" -->
 
-Posibilidad de mareo → Importancia del uso incremental
+Posibilidad de mareo → Importancia del uso incremental <!-- .element: class="fragment" -->
+
 
 <img class="r-stretch" style="text-align: center" src="../assets/sistema-guardian.png">
 ---
