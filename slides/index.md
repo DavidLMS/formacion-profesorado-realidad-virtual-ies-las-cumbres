@@ -139,7 +139,7 @@ Cambio de escala: universo, cuerpo humano, metáforas de dispositivos <!-- .elem
 Localizaciones remotas <!-- .element: class="fragment" -->
 
 
-Actividades peligrosas <!-- .element: class="fragment" -->
+Actividades peligrosas
 
 Actividad manual que requiere pasos muy precisos <!-- .element: class="fragment" -->
 
@@ -162,7 +162,7 @@ Ausencia de soluciones libres (Edorble) <!-- .element: class="fragment" -->
 
 [Mondly: Learn Languages in VR](https://www.oculus.com/experiences/quest/4214902388537196/?locale=es_ES)
 
-Intercambios virtuales: [Horizon Venues](https://www.oculus.com/experiences/quest/3002729676463989/?locale=es_ES)
+Intercambios virtuales: [Meta Horizon Worlds](https://www.oculus.com/experiences/quest/2532035600194083/)
 
 [ImmerseMe](https://immerseme.co)
 
@@ -267,7 +267,7 @@ Intercambios virtuales: [Horizon Venues](https://www.oculus.com/experiences/ques
 
 [Machine Inspector](https://sidequestvr.com/app/545/machine-inspector)
 
-[Wrench (aún no standalone)](http://www.wrenchgame.com)
+[Wrench](http://www.wrenchgame.com) (aún no standalone)
 
 
 ## Administrativo
