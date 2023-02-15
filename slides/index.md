@@ -30,27 +30,27 @@ Oculus Quest (2018) → Oculus Quest 2 (2020) → Meta Quest 2 (2021) <!-- .elem
 
 ## Meta Quest Pro
 
-Presentado en octubre
+Presentado en octubre <!-- .element: class="fragment" -->
 
-Modo passthrough en color
+Modo passthrough en color <!-- .element: class="fragment" -->
 
-Capacidad para transmitir emociones
+Capacidad para transmitir emociones <!-- .element: class="fragment" -->
 
-Mandos mejorados
+Mandos mejorados <!-- .element: class="fragment" -->
 
-Enfoque profesional
+Enfoque profesional <!-- .element: class="fragment" -->
 
-Su precio es 1800€
+Su precio es 1800€ <!-- .element: class="fragment" -->
 ---
 ## Futuro: Objetivos a alcanzar
 
-Futuro del trabajo
+Futuro del trabajo <!-- .element: class="fragment" -->
 
-Futuro del ocio
+Futuro del ocio <!-- .element: class="fragment" -->
 
-Futuro del deporte
+Futuro del deporte <!-- .element: class="fragment" -->
 
-Futuro de la educación
+Futuro de la educación <!-- .element: class="fragment" -->
 ---
 
 ## Hardware de Meta Quest 2
@@ -125,7 +125,7 @@ Posibilidad de grabación en realidad virtual <!-- .element: class="fragment" --
 
 Múltiples recursos para diferentes materias <!-- .element: class="fragment" -->
 
-Y lo mejor está por llegar... <!-- .element: class="fragment" -->
+Y los que vendrán... <!-- .element: class="fragment" -->
 
 
 ## ¿Cuándo usar VR en educación?
@@ -243,6 +243,15 @@ Intercambios virtuales: [Horizon Venues](https://www.oculus.com/experiences/ques
 [Google Earth VR](https://arvr.google.com/earth/)
 
 
+## Educación Física
+
+[fitXR](https://www.oculus.com/experiences/quest/2327205800645550/)
+
+[LesMills Bodycombat](https://www.oculus.com/experiences/quest/4015163475201433/?locale=es_ES)
+
+[Pickleball VR](https://www.oculus.com/experiences/quest/5326458524100924/?locale=es_ES)
+
+
 ## Formación y Orientación Laboral
 
 [VirtualSpeech](https://www.oculus.com/experiences/quest/3973230756042512/?locale=es_ES)
@@ -281,8 +290,6 @@ Web: [A-Frame](https://aframe.io)
 
 ## Comercio y Marketing
 
-Aplican aplicaciones de los apartados de Idiomas y Administrativo
-
 [Crop Craze: Farming Simulator](https://www.oculus.com/experiences/quest/5617270104965437/?utm_source=sidequest)
 
 [El cambio en la industria](https://business.trustedshops.es/blog/ejemplos-realidad-aumentada-realidad-virtual-estrategia-marketing/)
@@ -305,7 +312,7 @@ Aplican aplicaciones de los apartados de Idiomas y Administrativo
 
 [Enlace a la tienda oficial](https://www.oculus.com/experiences/quest/)
 
-Existen más alternativas: [App Lab](https://applabgamelist.com/Best)
+Existen más alternativas: [App Lab](https://applabgamelist.com/Best) o [SideQuest](https://sidequestvr.com/apps/education/1/rating)
 
 Experiencias en la web: [Access Mars](https://experiments.withgoogle.com/access-mars), [Speak to Go](https://experiments.withgoogle.com/speak-to-go) 
 
@@ -320,6 +327,22 @@ Una gran cantidad de vídeos en 360: [Viaje al interior del cuerpo humano](https
 ---
 ## Actividad propuesta
 
-Diseña una actividad para llevar a cabo con el alumnado usando Realidad Virtual
+Crea una actividad para llevar a cabo con el alumnado usando Realidad Virtual <!-- .element: class="fragment" -->
+
+Busca una experiencia que puedas utilizar de base <!-- .element: class="fragment" -->
+
+Piensa el objetivo didáctico <!-- .element: class="fragment" -->
+
+Diseña la dinámica de forma que el alumnado que no está utilizando el dispositivo tenga un rol diferente <!-- .element: class="fragment" -->
+
 
 Escanea el código QR para acceder a un listado de recursos en los que encontrar experiencias
+
+<img class="r-stretch" style="text-align: center" src="../assets/qr-resources.png">
+
+
+## Exit Ticket
+
+<img class="r-stretch" style="text-align: center" src="../assets/qr-feedback.png">
+
+<small>https://app.wooclap.com/FNRJUJ/questionnaires/63ed418afc118c96e7ad57e1</small>
