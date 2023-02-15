@@ -15,7 +15,8 @@
 
 Repositorio para alojar los materiales del curso de Realidad Virtual, realizado en el IES Las Cumbres (Ubrique, Cádiz) durante el mes de febrero de 2023 (3 horas presenciales en una sesión).
 
-[Acceso a las diapositivas de la sesión](/slides/index.html)
+* [Accede a las diapositivas de la sesión](/slides/index.html)
+* [Accede a las guías de uso y configuración](/guides)
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
